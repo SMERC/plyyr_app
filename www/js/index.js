@@ -17,6 +17,9 @@
  * under the License.
  */
 var app = {
+
+    mWebRef:null,
+
     // Application Constructor
     initialize: function() {
         this.bindEvents();
@@ -37,7 +40,18 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        window.open("http://dev.plyyr.com", "_self");
+        console.log("load");
+        this.mWebRef = window.open("http://dev.plyyr.com", "_self", "location:yes");
+        //this.mWebRef.addEventListener('loadstop', this.injectLoginFunction);
+        this.injectLoginFunction();
+    },
+    injectLoginFunction:function(){
+        console.log("Inject function");
+        this.mWebRef.executeScript({
+            code:"var appFacebookLogin = function(){return 0;};"},
+            function(aData){
+                alert("login");
+            });
     }
 };
 
