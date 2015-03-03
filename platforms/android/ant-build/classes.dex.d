@@ -1,0 +1,23 @@
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes.dex : \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/BuildConfig.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/CordovaApp.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/R$attr.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/R$drawable.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/R$string.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/R$xml.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/com/gamecloudnetwork/plyyr_app/R.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/diegofiorentin/Documents/TowerHouseStudio/smerc/plyyr_app/platforms/android/ant-build/dexedLibs/classes-875a4cb361e923a1f5465f73ea61b0d9.jar \
