@@ -37,7 +37,7 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        window.open("http://plyyr.com", "_self");
+        window.open("http://dev.plyyr.com", "_self");
     }
 };
 
