@@ -17,6 +17,9 @@
  * under the License.
  */
 var app = {
+
+    mWebRef:null,
+
     // Application Constructor
     initialize: function() {
         this.bindEvents();
@@ -37,7 +40,16 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        window.open("http://plyyr.com", "_blank");
+        console.log("load");
+        this.mWebRef = window.open("http://dev.plyyr.com", "_self");
+        //this.mWebRef.addEventListener('loadstop', this.injectLoginFunction);
+        console.log(this.mWebRef.executeScript);
+        this.injectLoginFunction();
+    },
+    injectLoginFunction:function(){
+        console.log("Inject function");
+        this.mWebRef.executeScript({
+            file:"test.js"});
     }
 };
 

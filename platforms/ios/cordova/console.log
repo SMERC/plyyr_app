@@ -69,3 +69,20 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-02-24 14:40:25.987 HelloCordova[4675:88137] Resetting plugins due to page load.
 2015-02-24 14:40:26.027 HelloCordova[4675:88137] Finished load of: file:///Users/diegofiorentin/Library/Developer/CoreSimulator/Devices/C2209174-52FE-4606-B614-5F0032F1A6A5/data/Containers/Bundle/Application/ABCB003D-B2C1-4304-A926-5A0EC606F16E/HelloCordova.app/www/index.html
 2015-02-24 14:40:27.037 HelloCordova[4675:88137] THREAD WARNING: ['InAppBrowser'] took '979.208008' ms. Plugin should use a background thread.
+2015-03-03 18:25:51.335 Plyyr[8134:1970889] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/user/Library/Developer/CoreSimulator/Devices/71C7AE5C-B4D3-4F87-81AE-EEC44CB47E7A/data/Containers/Data/Application/A2D584C8-29D7-4899-B8C6-6A1025F3316B/Library/Cookies/Cookies.binarycookies
+2015-03-03 18:25:51.954 Plyyr[8134:1970889] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-03 18:25:51.955 Plyyr[8134:1970889] Multi-tasking -> Device: YES, App: YES
+2015-03-03 18:25:51.986 Plyyr[8134:1970889] Unlimited access to network resources
+2015-03-03 18:25:52.003 Plyyr[8134:1970889] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-03 18:25:53.992 Plyyr[8134:1970889] Resetting plugins due to page load.
+2015-03-03 18:25:54.142 Plyyr[8134:1970889] Finished load of: file:///Users/user/Library/Developer/CoreSimulator/Devices/71C7AE5C-B4D3-4F87-81AE-EEC44CB47E7A/data/Containers/Bundle/Application/0434A0FE-FB02-467C-AC66-3D76C7A2DB16/Plyyr.app/www/index.html
+2015-03-03 18:25:54.196 Plyyr[8134:1970889] Resetting plugins due to page load.
+2015-03-03 18:25:54.196 Plyyr[8134:1970889] IAB.close() called but it was already closed.
+2015-03-03 18:26:00.286 Plyyr[8134:1970889] Finished load of: http://dev.plyyr.com/

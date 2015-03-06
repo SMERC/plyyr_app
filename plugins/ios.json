@@ -11,6 +11,10 @@
                         {
                             "xml": "false",
                             "count": 1
+                        },
+                        {
+                            "xml": false,
+                            "count": 1
                         }
                     ]
                 }
@@ -29,7 +33,7 @@
     },
     "installed_plugins": {
         "org.apache.cordova.inappbrowser": {
-            "PACKAGE_NAME": "com.gamecloudnetwork.plyyr_app"
+            "PACKAGE_NAME": "com.gamecloudnetwork.plyyrapp"
         }
     },
     "dependent_plugins": {}
